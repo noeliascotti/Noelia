@@ -7,5 +7,4 @@ developed by [INTI Argentina](http://www.inti.gob.ar/) with the collaboration of
  - License: [IMX7 SOM license](LICENSE).
 
 
-
-![iMX7 SoM picture](img/top.jpg)
+<img src="img/top.jpg" width="200" height="100">
