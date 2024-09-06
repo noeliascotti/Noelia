@@ -1,0 +1,7 @@
+CHANGES
+=======
+
+* Date: 09/06/2024
+* Files: KiCAD files
+* Author: Noelia Scotti <noeliascotti EN gmail.com>
+* Description: First publication with design files.
